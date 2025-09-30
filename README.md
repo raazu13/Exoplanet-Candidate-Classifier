@@ -66,6 +66,7 @@ Features
 
     
  Future Improvements
+ 
  • Add **deep learning models** (e.g., Neural Networks).
  • Allow **hyperparameter tuning** via UI.
  • Deploy on **Streamlit Cloud / Hugging Face Spaces**.
@@ -73,5 +74,6 @@ Features
 
  
  Author
+ 
  Developed with love
  by **Raju Kushwaha** using **Python, Streamlit, and scikit-learn** with the help of some friends and best friend open AI.
